@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello! my name is Nabih 😄
+
+I am focused on creating mobile applications for Android and IOS and also web applications with Flutter. Currently I work full time for a startup in Argentina as frontend developer and Flutter developer. In my day to day I use technologies such as: Flutter, Dart, HTML, CSS, JavaScript, ReactJs, GitHub, Slack, MongoDb, Postman, Keycloak, Grafana, Visual studio code among others.
+
+I hope you enjoy my work
+
+![flutter-bird](https://user-images.githubusercontent.com/99839506/226782112-8ab95333-0f4e-4af4-a093-8f2203953536.png)
+
 
 <!--
 **NabihUzcategui/nabihuzcategui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
