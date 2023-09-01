@@ -1,4 +1,4 @@
-## 👋🏽 Hi! It's [Nabih](https://nabihu.com/)
+## 👋🏽 Hi! I'm [Nabih](https://nabihu.com/) 🇻🇪 🇦🇷 
 
 Mobile App Developer with [Flutter](https://flutter.dev/).
 
