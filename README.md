@@ -1,10 +1,12 @@
 ## 👋🏽 Hi! I'm [Nabih](https://nabihu.com/)
 
-Mobile App Developer with [Flutter](https://flutter.dev/).
+[Flutter](https://flutter.dev/). Developer
 
-I develop mobile applications for Android and IOS. I currently work full time and remotely for a tech company that operates in several Latin American countries. In my day to day I use technologies such as: Flutter, Dart, Jira, JavaScript, ReactJs, GitHub, Slack, MongoDb, Postman, Azure Data Studio, Grafana, Visual studio code among others.
+Flutter developer.
 
-I hope you enjoy my work
+Hi, I'm an app developer for Android, iOS and web devices using Flutter as my main technology. In my day to day I also use other tools and technologies such as React Native, ReactJs, Jira, GitHub, Slack, MongoDb, Postman, Azure Data Studio, Grafana, Visual Studio Code among others. I am familiar with the use of agile methodologies (Scrum / Kanban), so adapting to a working method or team is not a problem for me.
+
+If you want to contact me, write me at: nabihuzcateguip@gmail.com
 
 <br/>
 
